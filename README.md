@@ -14,7 +14,7 @@ Business Goal: Identify which outlet types, locations, item categories, and fat 
 profiles drive the most revenue — and where performance gaps exist.
 __________________________________________________________________________________________
 ## Dashboard Preview
-__________________________________________________________________________________________
+
 ## KPIs Tracked
 
 KPI	Value
